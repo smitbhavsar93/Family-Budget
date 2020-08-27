@@ -1,4 +1,4 @@
-# Family-Budget
+# FamilyBudget
 
 ## How to run code
 For this code to work, drag and drop the .java file into any java programming compiler, the code for us was written on a software called Eclipse.
